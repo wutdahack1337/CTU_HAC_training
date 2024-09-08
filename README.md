@@ -1,4 +1,4 @@
-# ctuHAC_training
+# CTU_HAC_training
 CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
 
 ## 0x00
