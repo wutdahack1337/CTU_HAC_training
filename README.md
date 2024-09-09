@@ -43,7 +43,9 @@ int main(){
 - [ ] [Basic Data Types](https://vjudge.net/problem/Gym-287306B)
 
 ## 0x02: CHỈ DÀNH CHO EM BÉ 4 TUỔI
-#### 1. Tasks:
+#### 1. [Các lỗi phổ biến trong competitive programming và cách để tránh](https://dmoj.ctu.edu.vn/post/8-minhnguyent546)
+
+#### 2. Tasks:
 - [ ] [Print The Pattern]()
 
 ## 0x03: CHỈ DÀNH CHO EM BÉ 5 TUỔI
