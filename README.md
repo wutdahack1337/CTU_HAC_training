@@ -1,7 +1,7 @@
 # CTU_HAC_training
 CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
 
-## 0x00
+## 0x00: CHỈ DÀNH CHO EM BÉ 3 TUỔI
 #### 1. Độ phức tạp và Dung lượng bộ nhớ.
 - [Time Complexity](https://usaco.guide/bronze/time-comp?lang=cpp)
 - [Introduction to Big-O](https://www.youtube.com/watch?v=zUUkiEllHG0)
@@ -40,9 +40,22 @@ int main(){
 - [ ] [Breed Counting](https://vjudge.net/problem/USACO-572)
 - [ ] [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)
 - [ ] [Common Divisors](https://vjudge.net/problem/CodeForces-1203C)
+- [ ] [Basic Data Types](https://vjudge.net/problem/Gym-287306B)
 
-## 0x01
-#### 1.
-#### ...
-#### n. Tasks:
+## 0x02: CHỈ DÀNH CHO EM BÉ 4 TUỔI
+#### 1. Tasks:
+- [ ] [Print The Pattern]()
+
+## 0x03: CHỈ DÀNH CHO EM BÉ 5 TUỔI
+#### 1. Tasks:
+- [ ] [Factory Machines](https://cses.fi/problemset/task/1620)
+- [ ] [Packing Rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)
+
+## 0x04: BÉ TẬP LÀM QUEN VỚI ĐỒ THỊ
+#### 1. DFS (Deep First Search)
+- [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+- [Depth first search](https://csacademy.com/lesson/depth_first_search) with animations
+#### 2. BFS (Breadth First Search)
+- 
+#### 3. Tasks:
 
