@@ -2,9 +2,9 @@
 CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
 
 ## 0x00
-### 1. Độ phức tạp và Dung lượng bộ nhớ.
+#### 1. Độ phức tạp và Dung lượng bộ nhớ.
 - [Introduction to Big-O](https://www.youtube.com/watch?v=zUUkiEllHG0)
-### 2. Tăng tốc chương trình khi nhập, xuất.
+#### 2. Tăng tốc chương trình khi nhập, xuất.
 - Sử dụng '\n' thay vì endl
 - Tắt đồng bộ  
 ```c++  
@@ -17,7 +17,7 @@ int main(){
     return 0;  
 }    
 ```
-### 3. Tasks:
+#### 3. Tasks:
 - [ ] [Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A)
 - [ ] [Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B)
 - [ ] [Divisors](https://vjudge.net/problem/Gym-405759K)
