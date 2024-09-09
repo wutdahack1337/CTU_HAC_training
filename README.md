@@ -30,11 +30,6 @@ int main(){
 - [x] [How Many Divisors?](https://vjudge.net/problem/Aizu-ITP1_3_D)
 - [x] [Greatest Common Divisor](https://csacademy.com/contest/archive/task/gcd/) (không được sử dụng hàm có sẵn)
 - [x] [Static Range Sum](https://judge.yosupo.jp/problem/static_range_sum)
-
-## 0x01
-#### 1.
-#### ...
-#### n. Tasks:
 - [ ] [LCM and HCF](https://vjudge.net/problem/HackerRank-si-lcm-and-hcf)
 - [ ] [Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F)
 - [ ] [Fence](https://codeforces.com/problemset/problem/363/B)
@@ -45,3 +40,9 @@ int main(){
 - [ ] [Breed Counting](https://vjudge.net/problem/USACO-572)
 - [ ] [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)
 - [ ] [Common Divisors](https://vjudge.net/problem/CodeForces-1203C)
+
+## 0x01
+#### 1.
+#### ...
+#### n. Tasks:
+
