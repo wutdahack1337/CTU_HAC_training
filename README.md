@@ -27,9 +27,9 @@ int main(){
 - [x] [Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C)
 - [x] [Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J)
 - [x] [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)
-- [ ] [How Many Divisors?](https://vjudge.net/problem/Aizu-ITP1_3_D)
-- [ ] [Greatest Common Divisor](https://csacademy.com/contest/archive/task/gcd/)
-- [ ] [Static Range Sum](https://judge.yosupo.jp/problem/static_range_sum)
+- [x] [How Many Divisors?](https://vjudge.net/problem/Aizu-ITP1_3_D)
+- [x] [Greatest Common Divisor](https://csacademy.com/contest/archive/task/gcd/) (không được sử dụng hàm có sẵn)
+- [x] [Static Range Sum](https://judge.yosupo.jp/problem/static_range_sum)
 
 ## 0x01
 #### 1.
