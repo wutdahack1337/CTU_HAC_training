@@ -3,7 +3,9 @@ CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
 
 ## 0x00
 #### 1. Độ phức tạp và Dung lượng bộ nhớ.
+- [Time Complexity](https://usaco.guide/bronze/time-comp?lang=cpp)
 - [Introduction to Big-O](https://www.youtube.com/watch?v=zUUkiEllHG0)
+- [How to determine the solution of a problem by looking at its constraints?](https://codeforces.com/blog/entry/21344)
 #### 2. Tăng tốc chương trình khi nhập, xuất.
 - Sử dụng '\n' thay vì endl
 - Tắt đồng bộ  
@@ -30,4 +32,4 @@ int main(){
 - [ ] [Static Range Sum](https://judge.yosupo.jp/problem/static_range_sum)
 
 ## 0x01
-### 
+####
