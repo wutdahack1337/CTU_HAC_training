@@ -18,9 +18,9 @@ int main(){
 }    
 ```
 #### 3. Tasks:
-- [ ] [Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A)
-- [ ] [Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B)
-- [ ] [Divisors](https://vjudge.net/problem/Gym-405759K)
+- [x] [Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A)
+- [x] [Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B)
+- [x] [Divisors](https://vjudge.net/problem/Gym-405759K)
 - [ ] [Static Range Sum Queries](https://cses.fi/problemset/task/1646)
 - [ ] [Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C)
 - [ ] [Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J)
