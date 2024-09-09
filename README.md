@@ -32,4 +32,16 @@ int main(){
 - [ ] [Static Range Sum](https://judge.yosupo.jp/problem/static_range_sum)
 
 ## 0x01
-####
+#### 1.
+#### ...
+#### n. Tasks:
+- [ ] [LCM and HCF](https://vjudge.net/problem/HackerRank-si-lcm-and-hcf)
+- [ ] [Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F)
+- [ ] [Fence](https://codeforces.com/problemset/problem/363/B)
+- [ ] [Hello Recursion](https://vjudge.net/problem/SPOJ-HRECURS)
+- [ ] [Weird Algorithm](https://cses.fi/problemset/task/1068)
+- [ ] [Odd Queries](https://codeforces.com/contest/1807/problem/D)
+- [ ] [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)
+- [ ] [Breed Counting](https://vjudge.net/problem/USACO-572)
+- [ ] [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)
+- [ ] [Common Divisors](https://vjudge.net/problem/CodeForces-1203C)
