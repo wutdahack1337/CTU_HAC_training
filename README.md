@@ -7,7 +7,7 @@ CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
 - [Introduction to Big-O](https://www.youtube.com/watch?v=zUUkiEllHG0)
 - [How to determine the solution of a problem by looking at its constraints?](https://codeforces.com/blog/entry/21344)
 #### 2. Tăng tốc chương trình khi nhập, xuất.
-- Sử dụng '\n' thay vì endl
+- Sử dụng ```'\n'``` thay vì ```endl```
 - Tắt đồng bộ  
 ```c++  
 #include <bits/stdc++.h>  
