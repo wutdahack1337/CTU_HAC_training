@@ -59,7 +59,14 @@ Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì c
 - [ ] [Factory Machines](https://cses.fi/problemset/task/1620)
 - [ ] [Packing Rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)
 
-## 0x04: BÉ TẬP LÀM QUEN VỚI ĐỒ THỊ
+## 0x04: BẬT HAY TẮT? ĐÚNG HAY SAI?
+#### 1. Bitwise Operations and Bitmasks
+- [C++ Bitwise Operators](https://www.programiz.com/cpp-programming/bitwise-operators)
+- [Bitwise operations for beginners](https://codeforces.com/blog/entry/73490)
+#### 2. Tasks:
+- 
+
+## 0x05: BÉ TẬP LÀM QUEN VỚI ĐỒ THỊ
 #### 1. DFS (Deep First Search)
 - [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - [Depth first search](https://csacademy.com/lesson/depth_first_search) with animations
