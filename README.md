@@ -4,7 +4,7 @@ CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
 ## 0x00: TINH THẦN
 - [How to practice Competitive Programming [Um_nik version]](https://codeforces.com/blog/entry/98806)
 - [Pro Tips — get them while they are free](https://codeforces.com/blog/entry/113785)
-- Các tasks sẽ được sắp xếp 1 cách random (độ khó random, tags random)
+- Các tasks sẽ được sắp xếp 1 cách random (độ khó random, tags random). Mục đích của việc này là để cho bạn sử dụng hết tất cả các góc nhìn để thực sự tiếp cận được bài toán.
 ## 0x01: WARM UP #1
 #### 1. Độ phức tạp và Dung lượng bộ nhớ.
 - [Time Complexity](https://usaco.guide/bronze/time-comp?lang=cpp)
