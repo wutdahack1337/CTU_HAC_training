@@ -1,7 +1,10 @@
 # CTU_HAC_training
 CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
 
-## 0x00: CHỈ DÀNH CHO EM BÉ 3 TUỔI
+## 0x00: HƯỚNG ĐI
+- [How to practice Competitive Programming [Um_nik version]](https://codeforces.com/blog/entry/98806)
+
+## 0x01: CHỈ DÀNH CHO EM BÉ 3 TUỔI
 #### 1. Độ phức tạp và Dung lượng bộ nhớ.
 - [Time Complexity](https://usaco.guide/bronze/time-comp?lang=cpp)
 - [Introduction to Big-O](https://www.youtube.com/watch?v=zUUkiEllHG0)
