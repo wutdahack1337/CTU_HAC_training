@@ -24,7 +24,6 @@ int main(){
 }    
 ```
 #### 3. Tasks:
-- [x] [Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B)
 - [x] [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)
 - [x] [Static Range Sum Queries](https://cses.fi/problemset/task/1646)
 - [x] [Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C)
