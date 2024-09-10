@@ -42,7 +42,7 @@ int main(){
 - [ ] [Common Divisors](https://vjudge.net/problem/CodeForces-1203C)
 - [ ] [Basic Data Types](https://vjudge.net/problem/Gym-287306B)
 #### 4. WARNING: Chỉ quan tâm những thứ dưới đây khi đã cạn kiệt ý tưởng cho phần "3. Tasks":  
-Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì có thể bạn cần nghiên cứu một trong những thứ sau đây để chỉ đường dẫn lối cho bạn:
+Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì có thể bạn cần nghiên cứu một trong những thứ sau đây để khai thông tâm trí:
 - [Hint 1](https://www.youtube.com/watch?v=ngCos392W4w)
 - [Hint 2](https://www.youtube.com/watch?v=PhgtNY_-CiY)
 - [Hint 3](https://www.youtube.com/watch?v=Ae_Ag_saG9s)
