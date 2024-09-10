@@ -3,7 +3,8 @@ CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
 
 ## 0x00: TINH THẦN
 - [How to practice Competitive Programming [Um_nik version]](https://codeforces.com/blog/entry/98806)
-
+- [Pro Tips — get them while they are free](https://codeforces.com/blog/entry/113785)
+  
 ## 0x01: WARM UP #1
 #### 1. Độ phức tạp và Dung lượng bộ nhớ.
 - [Time Complexity](https://usaco.guide/bronze/time-comp?lang=cpp)
@@ -54,7 +55,6 @@ Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì c
   
 ## 0x02: WARM UP #2
 #### 1. [Các lỗi phổ biến trong competitive programming và cách để tránh](https://dmoj.ctu.edu.vn/post/8-minhnguyent546)
-
 #### 2. Tasks:
 - [ ] [Print The Pattern]()
 
