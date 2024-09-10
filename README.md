@@ -43,11 +43,11 @@ int main(){
 - [ ] [Basic Data Types](https://vjudge.net/problem/Gym-287306B)
 #### 4. WARNING: Chỉ quan tâm những thứ dưới đây khi đã BỎ CUỘC cho một bài nào đó trong phần "3. Tasks":  
 Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
-- [Hint 1](https://www.youtube.com/watch?v=ngCos392W4w)
-- [Hint 2](https://www.youtube.com/watch?v=PhgtNY_-CiY)
-- [Hint 3](https://www.youtube.com/watch?v=Ae_Ag_saG9s)
-- [Hint 4](https://www.geeksforgeeks.org/gcd-in-cpp/)
-- [Hint 5](https://www.facebook.com/people/CTU-Hacking-Algorithm-Club/61562622140386/)
+- [Hint](https://www.youtube.com/watch?v=ngCos392W4w)
+- [Hint](https://www.youtube.com/watch?v=PhgtNY_-CiY)
+- [Hint](https://www.youtube.com/watch?v=Ae_Ag_saG9s)
+- [Hint](https://www.geeksforgeeks.org/gcd-in-cpp/)
+- [Hint](https://www.facebook.com/people/CTU-Hacking-Algorithm-Club/61562622140386/)
   
 ## 0x02: CHỈ DÀNH CHO EM BÉ 4 TUỔI
 #### 1. [Các lỗi phổ biến trong competitive programming và cách để tránh](https://dmoj.ctu.edu.vn/post/8-minhnguyent546)
