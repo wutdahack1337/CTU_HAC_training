@@ -26,7 +26,6 @@ int main(){
 #### 3. Tasks:
 - [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)
 - [Static Range Sum Queries](https://cses.fi/problemset/task/1646)
-- [Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C)
 - [Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J)
 - [How Many Divisors?](https://vjudge.net/problem/Aizu-ITP1_3_D)
 - [LCM and HCF](https://vjudge.net/problem/HackerRank-si-lcm-and-hcf)
@@ -39,7 +38,6 @@ int main(){
 - [Breed Counting](https://vjudge.net/problem/USACO-572)
 - [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)
 - [Common Divisors](https://vjudge.net/problem/CodeForces-1203C)
-- [Basic Data Types](https://vjudge.net/problem/Gym-287306B)
 #### 4. WARNING: Chỉ quan tâm những thứ dưới đây khi đã THỰC SỰ BỎ CUỘC cho một bài nào đó trong phần "3. Tasks":  
 Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
 - [Hint](https://www.youtube.com/watch?v=ngCos392W4w)
