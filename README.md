@@ -24,23 +24,22 @@ int main(){
 }    
 ```
 #### 3. Tasks:
-- [x] [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)
-- [x] [Static Range Sum Queries](https://cses.fi/problemset/task/1646)
-- [x] [Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C)
-- [x] [Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J)
-- [x] [How Many Divisors?](https://vjudge.net/problem/Aizu-ITP1_3_D)
-- [x] [Greatest Common Divisor](https://csacademy.com/contest/archive/task/gcd/) (không được sử dụng hàm có sẵn)
-- [ ] [LCM and HCF](https://vjudge.net/problem/HackerRank-si-lcm-and-hcf)
-- [ ] [Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F)
-- [ ] [Fence](https://codeforces.com/problemset/problem/363/B)
-- [ ] [Hello Recursion](https://vjudge.net/problem/SPOJ-HRECURS)
-- [ ] [Weird Algorithm](https://cses.fi/problemset/task/1068)
-- [ ] [Odd Queries](https://codeforces.com/contest/1807/problem/D)
-- [ ] [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)
-- [ ] [Breed Counting](https://vjudge.net/problem/USACO-572)
-- [ ] [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)
-- [ ] [Common Divisors](https://vjudge.net/problem/CodeForces-1203C)
-- [ ] [Basic Data Types](https://vjudge.net/problem/Gym-287306B)
+- [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)
+- [Static Range Sum Queries](https://cses.fi/problemset/task/1646)
+- [Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C)
+- [Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J)
+- [How Many Divisors?](https://vjudge.net/problem/Aizu-ITP1_3_D)
+- [LCM and HCF](https://vjudge.net/problem/HackerRank-si-lcm-and-hcf)
+- [Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F)
+- [Fence](https://codeforces.com/problemset/problem/363/B)
+- [Hello Recursion](https://vjudge.net/problem/SPOJ-HRECURS)
+- [Weird Algorithm](https://cses.fi/problemset/task/1068)
+- [Odd Queries](https://codeforces.com/contest/1807/problem/D)
+- [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)
+- [Breed Counting](https://vjudge.net/problem/USACO-572)
+- [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)
+- [Common Divisors](https://vjudge.net/problem/CodeForces-1203C)
+- [Basic Data Types](https://vjudge.net/problem/Gym-287306B)
 #### 4. WARNING: Chỉ quan tâm những thứ dưới đây khi đã THỰC SỰ BỎ CUỘC cho một bài nào đó trong phần "3. Tasks":  
 Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
 - [Hint](https://www.youtube.com/watch?v=ngCos392W4w)
@@ -52,12 +51,12 @@ Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì c
 ## 0x02: 
 #### 1. [Các lỗi phổ biến trong competitive programming và cách để tránh](https://dmoj.ctu.edu.vn/post/8-minhnguyent546)
 #### 2. Tasks:
-- [ ] [Print The Pattern]()
+- [Print The Pattern]()
 
 ## 0x03: 
 #### 1. Tasks:
-- [ ] [Factory Machines](https://cses.fi/problemset/task/1620)
-- [ ] [Packing Rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)
+- [Factory Machines](https://cses.fi/problemset/task/1620)
+- [Packing Rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)
 
 ## 0x04: BẬT HAY TẮT? ĐÚNG HAY SAI?
 #### 1. Bitwise Operations and Bitmasks
