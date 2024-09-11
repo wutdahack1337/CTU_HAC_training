@@ -5,7 +5,7 @@ CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
 - [How to practice Competitive Programming [Um_nik version]](https://codeforces.com/blog/entry/98806)
 - [Pro Tips — get them while they are free](https://codeforces.com/blog/entry/113785)
 - Các tasks sẽ được sắp xếp 1 cách random (độ khó random, tags random). Mục đích của việc này là để cho bạn sử dụng hết tất cả các góc nhìn để thực sự tiếp cận được bài toán.
-## 0x01: WARM UP #1
+## 0x01: WARM UP
 #### 1. Độ phức tạp và Dung lượng bộ nhớ.
 - [Time Complexity](https://usaco.guide/bronze/time-comp?lang=cpp)
 - [Introduction to Big-O](https://www.youtube.com/watch?v=zUUkiEllHG0)
@@ -49,12 +49,12 @@ Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì c
 - [Hint](https://www.geeksforgeeks.org/gcd-in-cpp/)
 - [Hint](https://www.facebook.com/people/CTU-Hacking-Algorithm-Club/61562622140386/)
   
-## 0x02: WARM UP #2
+## 0x02: 
 #### 1. [Các lỗi phổ biến trong competitive programming và cách để tránh](https://dmoj.ctu.edu.vn/post/8-minhnguyent546)
 #### 2. Tasks:
 - [ ] [Print The Pattern]()
 
-## 0x03: WARM UP #3
+## 0x03: 
 #### 1. Tasks:
 - [ ] [Factory Machines](https://cses.fi/problemset/task/1620)
 - [ ] [Packing Rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)
