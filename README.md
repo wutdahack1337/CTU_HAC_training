@@ -24,20 +24,30 @@ int main(){
 }    
 ```
 #### 3. Tasks:
-- [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)
-- [Static Range Sum Queries](https://cses.fi/problemset/task/1646)
-- [Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J)
-- [How Many Divisors?](https://vjudge.net/problem/Aizu-ITP1_3_D)
-- [LCM and HCF](https://vjudge.net/problem/HackerRank-si-lcm-and-hcf)
 - [Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F)
-- [Fence](https://codeforces.com/problemset/problem/363/B)
 - [Hello Recursion](https://vjudge.net/problem/SPOJ-HRECURS)
 - [Weird Algorithm](https://cses.fi/problemset/task/1068)
-- [Odd Queries](https://codeforces.com/contest/1807/problem/D)
 - [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)
+- [Apple Division](https://cses.fi/problemset/task/1623)
+- [Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U)
+
+- [Divisors](https://vjudge.net/problem/Gym-405759K)
+- [How Many Divisors?](https://vjudge.net/problem/Aizu-ITP1_3_D)
+- [k-th divisor](https://vjudge.net/problem/CodeForces-762A)
+- [Counting Divisors](https://cses.fi/problemset/task/1713)
+
+- [Greatest Common Divisor](https://csacademy.com/contest/archive/task/gcd/)
+- [LCM and HCF](https://vjudge.net/problem/HackerRank-si-lcm-and-hcf)
+- [Common Divisors](https://vjudge.net/problem/CodeForces-1203C)
+- [LCM Problem](https://codeforces.com/problemset/problem/1389/A)
+- [Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C)
+
+- [Fence](https://codeforces.com/problemset/problem/363/B)
+- [Odd Queries](https://codeforces.com/contest/1807/problem/D)
 - [Breed Counting](https://vjudge.net/problem/USACO-572)
 - [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)
-- [Common Divisors](https://vjudge.net/problem/CodeForces-1203C)
+- [Prefix Sum Addicts](https://codeforces.com/problemset/problem/1738/B)
+- [Subarray Divisibility](https://cses.fi/problemset/task/1662)
 #### 4. WARNING: Chỉ quan tâm những thứ dưới đây khi đã THỰC SỰ BỎ CUỘC cho một bài nào đó trong phần "3. Tasks":  
 Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
 - [Hint](https://www.youtube.com/watch?v=ngCos392W4w)
