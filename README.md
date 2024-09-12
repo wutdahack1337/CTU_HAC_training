@@ -1,5 +1,6 @@
 # CTU_HAC_training
-CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training
+CTU Hacking &amp;&amp; Algorithm Club ICPC, OLP Training  
+[Đường đi đơn giản](https://docs.google.com/document/d/1wXXQtoBgyMyMXoDWvNZ_CL_fVOns099q4yAPErdebxM/edit) (của anh Trần Quốc Khang soạn, các bạn tham khảo thêm)
 
 ## 0x00: TINH THẦN
 - [How to practice Competitive Programming [Um_nik version]](https://codeforces.com/blog/entry/98806)
