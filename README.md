@@ -26,6 +26,7 @@ int main(){
 }    
 ```
 #### 3. Tasks:
+- [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)
 - [Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F)
 - [Hello Recursion](https://vjudge.net/problem/SPOJ-HRECURS)
 - [Weird Algorithm](https://cses.fi/problemset/task/1068)
@@ -44,6 +45,7 @@ int main(){
 - [LCM Problem](https://codeforces.com/problemset/problem/1389/A)
 - [Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C)
 
+- [Static Range Sum](https://judge.yosupo.jp/problem/static_range_sum)
 - [Fence](https://codeforces.com/problemset/problem/363/B)
 - [Odd Queries](https://codeforces.com/contest/1807/problem/D)
 - [Breed Counting](https://vjudge.net/problem/USACO-572)
@@ -61,22 +63,25 @@ Nếu có một bài nào đó ở phần "Tasks" làm bạn vật vã thì có 
 ## 0x02: NGƯỜI THỐNG TRỊ THAM LAM XÂY DỰNG VƯƠNG QUỐC
 #### 1. [Các lỗi phổ biến trong competitive programming và cách để tránh](https://dmoj.ctu.edu.vn/post/8-minhnguyent546)
 #### 2. Tasks:
-- [Studying Algorithms](https://vjudge.net/problem/Gym-102951B)
 - [Increasing Array](https://cses.fi/problemset/task/1094)
 - [Ferris Wheel](https://cses.fi/problemset/task/1090)
 - [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
-- [Towers](https://cses.fi/problemset/task/1073)
+- [Reading Books](https://cses.fi/problemset/task/1631)
+- [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+- [Least Prefix Sum](https://codeforces.com/problemset/problem/1779/C)
 - [Missing Coin Sum](https://cses.fi/problemset/task/2183)
 
-- [Special Permutation](https://codeforces.com/problemset/problem/1454/A)
-- [EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A)
-- [Construct the String](https://codeforces.com/problemset/problem/1335/B)
+- [Palindrome Reorder](https://cses.fi/problemset/task/1755)
+- [GCD vs LCM](https://codeforces.com/problemset/problem/1665/A)
 - [LCM Problem](https://codeforces.com/problemset/problem/1389/A)
-- [Two Sets](https://cses.fi/problemset/task/1092)
-- [A BIT of a Construction](https://codeforces.com/problemset/problem/1957/B)
+- [Unnatural Conditions](https://codeforces.com/contest/1028/problem/B)
+- [K-divisible Sum](https://codeforces.com/problemset/problem/1476/A)
+- [Multiples of Length](https://codeforces.com/problemset/problem/1396/A)
+- [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C)
 
 - [Print The Pattern](https://vjudge.net/problem/SPOJ-ABACABA)
 - [Inversion Count](https://vjudge.net/problem/SPOJ-INVCNT)
+- [Merge Sort?](https://vjudge.net/problem/CodeForces-873D)
 - [Ada and Species](https://www.spoj.com/problems/ADACABAA/)
 #### 3. WARNING: Chỉ quan tâm những thứ dưới đây khi đã THỰC SỰ BỎ CUỘC cho một bài nào đó trong phần "Tasks":  
 Nếu có một bài nào đó ở phần "Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
