@@ -6,6 +6,7 @@
 - [How to practice Competitive Programming [Um_nik version]](https://codeforces.com/blog/entry/98806)
 - [Pro Tips — get them while they are free](https://codeforces.com/blog/entry/113785)
 - Các tasks sẽ được sắp xếp 1 cách random (độ khó random, tags random). Mục đích của việc này là để cho bạn sử dụng hết tất cả các góc nhìn để thực sự tiếp cận được bài toán.
+
 ## 0x01: WARM UP
 #### 1. Độ phức tạp và Dung lượng bộ nhớ.
 - [Time Complexity](https://usaco.guide/bronze/time-comp?lang=cpp)
@@ -49,18 +50,40 @@ int main(){
 - [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)
 - [Prefix Sum Addicts](https://codeforces.com/problemset/problem/1738/B)
 - [Subarray Divisibility](https://cses.fi/problemset/task/1662)
-#### 4. WARNING: Chỉ quan tâm những thứ dưới đây khi đã THỰC SỰ BỎ CUỘC cho một bài nào đó trong phần "3. Tasks":  
-Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
+#### 4. WARNING: Chỉ quan tâm những thứ dưới đây khi đã THỰC SỰ BỎ CUỘC cho một bài nào đó trong phần "Tasks":  
+Nếu có một bài nào đó ở phần "Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
 - [Hint](https://www.youtube.com/watch?v=ngCos392W4w)
-- [Hint](https://www.youtube.com/watch?v=PhgtNY_-CiY)
 - [Hint](https://www.youtube.com/watch?v=Ae_Ag_saG9s)
 - [Hint](https://www.geeksforgeeks.org/gcd-in-cpp/)
+- [Hint](https://www.youtube.com/watch?v=PhgtNY_-CiY)
 - [Hint](https://www.facebook.com/people/CTU-Hacking-Algorithm-Club/61562622140386/)
   
-## 0x02
+## 0x02: NGƯỜI THỐNG TRỊ THAM LAM XÂY DỰNG VƯƠNG QUỐC
 #### 1. [Các lỗi phổ biến trong competitive programming và cách để tránh](https://dmoj.ctu.edu.vn/post/8-minhnguyent546)
 #### 2. Tasks:
-- [Print The Pattern]()
+- [Studying Algorithms](https://vjudge.net/problem/Gym-102951B)
+- [Increasing Array](https://cses.fi/problemset/task/1094)
+- [Ferris Wheel](https://cses.fi/problemset/task/1090)
+- [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
+- [Towers](https://cses.fi/problemset/task/1073)
+- [Missing Coin Sum](https://cses.fi/problemset/task/2183)
+
+- [Special Permutation](https://codeforces.com/problemset/problem/1454/A)
+- [EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A)
+- [Construct the String](https://codeforces.com/problemset/problem/1335/B)
+- [LCM Problem](https://codeforces.com/problemset/problem/1389/A)
+- [Two Sets](https://cses.fi/problemset/task/1092)
+- [A BIT of a Construction](https://codeforces.com/problemset/problem/1957/B)
+
+- [Print The Pattern](https://vjudge.net/problem/SPOJ-ABACABA)
+- [Inversion Count](https://vjudge.net/problem/SPOJ-INVCNT)
+- [Ada and Species](https://www.spoj.com/problems/ADACABAA/)
+#### 3. WARNING: Chỉ quan tâm những thứ dưới đây khi đã THỰC SỰ BỎ CUỘC cho một bài nào đó trong phần "Tasks":  
+Nếu có một bài nào đó ở phần "Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
+- [Hint](https://usaco.guide/bronze/intro-greedy?lang=cpp)
+- [Hint](https://assets.hkoi.org/training2019/cast.pdf)
+- [Hint](https://www.youtube.com/watch?v=ib4BHvr5-Ao)
+- [Hint](https://www.facebook.com/people/CTU-Hacking-Algorithm-Club/61562622140386/)
 
 ## 0x03
 #### 1. Tasks:
