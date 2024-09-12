@@ -56,12 +56,12 @@ Nếu có một bài nào đó ở phần "3. Tasks" làm bạn vật vã thì c
 - [Hint](https://www.geeksforgeeks.org/gcd-in-cpp/)
 - [Hint](https://www.facebook.com/people/CTU-Hacking-Algorithm-Club/61562622140386/)
   
-## 0x02: 
+## 0x02
 #### 1. [Các lỗi phổ biến trong competitive programming và cách để tránh](https://dmoj.ctu.edu.vn/post/8-minhnguyent546)
 #### 2. Tasks:
 - [Print The Pattern]()
 
-## 0x03: 
+## 0x03
 #### 1. Tasks:
 - [Factory Machines](https://cses.fi/problemset/task/1620)
 - [Packing Rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)
