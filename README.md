@@ -60,7 +60,7 @@ Nếu có một bài nào đó ở phần "Tasks" làm bạn vật vã thì có 
 - [Hint](https://www.youtube.com/watch?v=PhgtNY_-CiY)
 - [Hint](https://www.facebook.com/people/CTU-Hacking-Algorithm-Club/61562622140386/)
   
-## 0x02: NGƯỜI THỐNG TRỊ THAM LAM XÂY DỰNG VƯƠNG QUỐC
+## 0x02: KẺ THỐNG TRỊ THAM LAM XÂY DỰNG VƯƠNG QUỐC
 #### 1. [Các lỗi phổ biến trong competitive programming và cách để tránh](https://dmoj.ctu.edu.vn/post/8-minhnguyent546)
 #### 2. Tasks:
 - [Increasing Array](https://cses.fi/problemset/task/1094)
