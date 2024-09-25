@@ -90,17 +90,63 @@ Nếu có một bài nào đó ở phần "Tasks" làm bạn vật vã thì có 
 - [Hint](https://www.youtube.com/watch?v=ib4BHvr5-Ao)
 - [Hint](https://www.facebook.com/people/CTU-Hacking-Algorithm-Club/61562622140386/)
 
-## 0x03
-#### 1. Tasks:
-- [Factory Machines](https://cses.fi/problemset/task/1620)
-- [Packing Rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)
-
-## 0x04: BẬT HAY TẮT? ĐÚNG HAY SAI?
+## 0x03: CẤU TRÚC CỦA GẤU TRÚC
 #### 1. Bitwise Operations and Bitmasks
 - [C++ Bitwise Operators](https://www.programiz.com/cpp-programming/bitwise-operators)
 - [Bitwise operations for beginners](https://codeforces.com/blog/entry/73490)
 #### 2. Tasks:
-- 
+- [Bitwise Operators](https://vjudge.net/problem/HackerRank-bitwise-operators-in-c)
+- [Maximizing XOR](https://vjudge.net/problem/HackerRank-maximizing-xor)
+- [Day 29: Bitwise AND](https://vjudge.net/problem/HackerRank-30-bitwise-and)
+- [Check bit](https://vjudge.net/problem/HackerRank-si-basic-check-bit)
+- [Flipping bits](https://vjudge.net/problem/HackerRank-flipping-bits)
+- [Swap Bits](https://vjudge.net/problem/HackerRank-si-swap-bits)
+- [Reverse Bits](https://vjudge.net/problem/HackerRank-si-reverse-bits)
+- [Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
+- [Bit Strings](https://cses.fi/problemset/task/1617)
+- [Petr and a Combination Lock](https://codeforces.com/problemset/problem/1097/B)
+
+- [Implement Stack](https://vjudge.net/problem/HackerRank-si-implement-stack)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+- [Stacks: Balanced Brackets](https://vjudge.net/problem/HackerRank-ctci-balanced-brackets)
+- [Nearest Smaller Values](https://cses.fi/problemset/task/1645)
+
+- [Implement Queue](https://vjudge.net/problem/HackerRank-si-implement-queue)
+- [Easy Queue](https://vjudge.net/problem/SPOJ-QUEUEEZ)
+- [Queue](https://vjudge.net/problem/Aizu-ALDS1_3_B)
+- [Team Queue](https://vjudge.net/problem/UVA-540)
+
+- [Priority Queue](https://vjudge.net/problem/Aizu-ALDS1_9_C)
+- [Priority Queue 2](https://vjudge.net/problem/Aizu-ITP2_2_C)
+- [8 Use Priority Queue Please](https://vjudge.net/problem/CodeChef-CCOP8)
+- [priority queue minimum](https://vjudge.net/problem/Gym-381668C)
+- [Hinata & Priority Queue](https://vjudge.net/problem/HackerRank-hinata-priority-queue)
+- [Room Allocation](https://cses.fi/problemset/task/1164)
+
+- [Maps-STL](https://vjudge.net/problem/HackerRank-cpp-maps)
+- [FIGUREFUL](https://vjudge.net/problem/SPOJ-ACMCEG2B)
+- [Frinds and money](https://vjudge.net/problem/Gym-381668D)
+- [Hay Points](https://vjudge.net/problem/UVA-10295)
+- [Tom Riddle's Diary](https://vjudge.net/problem/CodeForces-855A)
+- [Registration System](https://vjudge.net/problem/CodeForces-4C)
+- [The Department of Redundancy Department](https://vjudge.net/problem/UVA-484)
+- [Babelfish](https://vjudge.net/problem/UVA-10282)
+- [Sum of Two Values](https://cses.fi/problemset/task/1640)
+- [Subarray Sums II](https://cses.fi/problemset/task/1661)
+#### 3. WARNING: Chỉ quan tâm những thứ dưới đây khi đã THỰC SỰ BỎ CUỘC cho một bài nào đó trong phần "Tasks":  
+Nếu có một bài nào đó ở phần "Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
+- [Hint](https://www.programiz.com/cpp-programming/stack)
+- [Hint](https://www.programiz.com/cpp-programming/queue)
+- [Hint](https://www.programiz.com/cpp-programming/priority-queue)
+- [Hint](https://www.youtube.com/watch?v=7mwgA9XFIEQ&list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3&index=17)
+- [Hint](https://www.facebook.com/people/CTU-Hacking-Algorithm-Club/61562622140386/)
+
+## 0x04
+#### 1. Tasks:
+- [Factory Machines](https://cses.fi/problemset/task/1620)
+- [Packing Rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)
+
+
 
 ## 0x05: BÉ TẬP LÀM QUEN VỚI ĐỒ THỊ
 #### 1. DFS (Deep First Search)
