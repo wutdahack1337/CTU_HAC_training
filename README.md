@@ -31,7 +31,10 @@ int main(){
 - [Hello Recursion](https://vjudge.net/problem/SPOJ-HRECURS)
 - [Weird Algorithm](https://cses.fi/problemset/task/1068)
 - [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)
+- [Tower of Hanoi](https://cses.fi/problemset/task/2165)
+- [Number of Ways](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y)
 - [Apple Division](https://cses.fi/problemset/task/1623)
+- [Reach Value](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/W)
 - [Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U)
 
 - [Divisors](https://vjudge.net/problem/Gym-405759K)
