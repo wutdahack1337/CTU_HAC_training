@@ -85,7 +85,6 @@ Nếu có một bài nào đó ở phần "Tasks" làm bạn vật vã thì có 
 - [Print The Pattern](https://vjudge.net/problem/SPOJ-ABACABA)
 - [Inversion Count](https://vjudge.net/problem/SPOJ-INVCNT)
 - [Merge Sort?](https://vjudge.net/problem/CodeForces-873D)
-- [Ada and Species](https://www.spoj.com/problems/ADACABAA/)
 #### 3. WARNING: Chỉ quan tâm những thứ dưới đây khi đã THỰC SỰ BỎ CUỘC cho một bài nào đó trong phần "Tasks":  
 Nếu có một bài nào đó ở phần "Tasks" làm bạn vật vã thì có thể bạn cần một trong những thứ sau đây để khai thông tâm trí:
 - [Hint](https://usaco.guide/bronze/intro-greedy?lang=cpp)
